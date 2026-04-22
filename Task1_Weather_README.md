@@ -45,12 +45,12 @@ Enter a city name to get weather details
 
 🌦️ WEATHER REPORT
 -----------------------------------
-📍 City: Delhi
-🌡️ Temperature: 30 °C
-☁️ Condition: clear sky
-💧 Humidity: 70%
-🌬️ Wind Speed: 3 m/s
-🔵 Pressure: 1012 hPa
+### 📍 City: Delhi
+### 🌡️ Temperature: 30 °C
+### ☁️ Condition: clear sky
+### 💧 Humidity: 70%
+### 🌬️ Wind Speed: 3 m/s
+### 🔵 Pressure: 1012 hPa
 -----------------------------------
 
 ## Concepts Used
