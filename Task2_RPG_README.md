@@ -81,12 +81,12 @@ This project is designed to:
 ## 🌟 Game Paths
 
  ### ⚔️ Warrior Path
-  -🏆 Hero of the Clover Kingdom (Best Ending)
-  -⚖️ Unfinished Journey (Neutral Ending)
+  - 🏆 Hero of the Clover Kingdom (Best Ending)
+  - ⚖️ Unfinished Journey (Neutral Ending)
 ### 🌲 Weak Path
-  -😐 Struggle and Survival Ending
+  - 😐 Struggle and Survival Ending
 ### 💀 Failure Path
-  -❌ Fallen Warrior Ending
+  - ❌ Fallen Warrior Ending
 
 ## Future Improvements
 - Add health (HP) and combat mechanics
