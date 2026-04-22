@@ -16,7 +16,8 @@ The application uses an API to fetch live weather data and displays it in a clea
  - Displays atmospheric pressure
  - Allows multiple city searches
  - Handles invalid city input
- - Technologies Used
+
+ ## Technologies Used
  - Python
  - Requests library
  - OpenWeather API
